@@ -21,12 +21,12 @@
 
 ## $ whoami
 
-- 🔧 Backend-focused developer specializing in **Java & Spring Boot**
-- ⚙️ Experienced in designing **REST APIs, authentication (JWT), and scalable architectures**
-- 🧠 Strong understanding of **OOP, system design, and database modeling**
-- 🚀 Currently building **RevPay – a full-stack financial system with secure transactions**
-- 📈 Continuously improving in **Microservices, Cloud, and Distributed Systems**
-- 📫 Reach me at: **priyanshugwahane@gmail.com**
+-  Backend-focused developer specializing in **Java & Spring Boot**
+-  Experienced in designing **REST APIs, authentication (JWT), and scalable architectures**
+-  Strong understanding of **OOP, system design, and database modeling**
+-  Currently building **RevPay – a full-stack financial system with secure transactions**
+-  Continuously improving in **Microservices, Cloud, and Distributed Systems**
+-  Reach me at: **priyanshugwahane@gmail.com**
 
 ---
 
